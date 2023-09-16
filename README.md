@@ -1,5 +1,5 @@
 
-![My Profile Picture]([images/profile.jpg](https://github.com/hasibulhamim2020/hasibulhamim2020/blob/main/photo_510%4017-05-2021_20-28-32.jpg))
+![My Profile Picture]([photo_510%4017-05-2021_20-28-32.jpg))
 
 
 ## Personal Information
