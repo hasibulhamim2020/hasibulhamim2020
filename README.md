@@ -1,6 +1,5 @@
 
-![My Profile Picture](photo_510@17-05-2021_20-28-32.jpg)
-
+# Resume
 
 ## Personal Information
 
