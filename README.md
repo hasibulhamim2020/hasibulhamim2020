@@ -1,4 +1,6 @@
-# Resume
+
+![My Profile Picture](images/profile.jpg)
+
 
 ## Personal Information
 
