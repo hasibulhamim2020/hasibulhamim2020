@@ -1,4 +1,4 @@
-<p align="center"><a href="" target="_blank"><img src="https://github.com/hasibulhamim2020/hasibulhamim2020/blob/main/photo_510%4017-05-2021_20-28-32.jpg" width="100%" alt="Profile Picture"></a></p>
+<p align="center"><a href="" target="_blank"><img src="https://github.com/hasibulhamim2020/hasibulhamim2020/blob/main/IMG_0805.jpg" width="100%" alt="Profile Picture"></a></p>
 
 
 # Resume
