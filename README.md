@@ -9,6 +9,27 @@
 **Phone:** +8801732312998  
 **Email:** hasibulhamim2020@gmail.com  
 
+## Academic Qualification
+
+- **B.Sc. (Engineering)**
+  - Dhaka International University
+  - Department: CSE
+  - Result: 3.82 out of 4.00
+
+## Training Summary
+
+| Sl No | Training Title                              | Institute                     | Location    | Country    | Year | Duration  |
+|-------|--------------------------------------------|-------------------------------|-------------|------------|------|-----------|
+| 01    | Advance English Certificate Course          | Dhaka International University | Dhaka       | Bangladesh | 2023 | 03 Months |
+| 02    | Complete Web Development Course with Jhankar Mahbub | Programming Hero               | N/A         | Bangladesh | 2022 | 06 Months |
+| 03    | PHP with Laravel framework | Bitm               | Kawran Bazar, Dhaka         | Bangladesh | 2023 | 03 Months |
+
+## Technical Skills
+
+- **Languages:** HTML, C, C++, Java (OOP), JavaScript, Python, DBMS, PHP, PHP(OOP), Laravel.
+- **Operating System:** Windows, Android.
+- **Others:** MS-Office, Adobe Photoshop.
+
 ## Special Qualification
 
 - Capable of taking on responsibilities, hard worker, and quick learner.
@@ -17,43 +38,11 @@
 - Effective communication skills, both written and verbal.
 - Skilled in problem-solving and innovative solutions.
 
-## Academic Qualification
-
-- **B.Sc. (Engineering)**
-  - Dhaka International University
-  - Department: CSE
-  - Result: 3.82 out of 4.00
-
-- **HSC (Higher Secondary Certificate)**
-  - Board: Dhaka
-  - Institute: Ideal College, Dhanmondi
-  - Result: 4.25 out of 5.00
-  - Year of Passing: 2019
-
-- **SSC (Secondary School Certificate)**
-  - Board: Comilla
-  - Institute: Comilla Modern High School
-  - Result: 4.91 out of 5.00
-  - Year of Passing: 2017
-
 ## Interests
 
 - Technology enthusiast with a passion for advancements in software and gadgets.
 - Creative individual with a talent for various artistic pursuits, including painting, writing, music, or photography.
 - Curious and open-minded traveler who seeks new experiences and embraces diverse cultures.
-
-## Technical Skills
-
-- **Languages:** HTML, C++, Java (OOP), JavaScript, Python, DBMS.
-- **Operating System:** Windows.
-- **Others:** MS-Office, Adobe Photoshop.
-
-## Training Summary
-
-| Sl No | Training Title                              | Institute                     | Location    | Country    | Year | Duration  |
-|-------|--------------------------------------------|-------------------------------|-------------|------------|------|-----------|
-| 01    | Advance English Certificate Course          | Dhaka International University | Dhaka       | Bangladesh | 2023 | 03 Months |
-| 02    | Complete Web Development Course with Jhankar Mahbub | Programming Hero               | N/A         | Bangladesh | 2022 | 06 Months |
 
 ## Personal Details
 
